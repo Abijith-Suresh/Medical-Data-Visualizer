@@ -1,2 +1,20 @@
-# Medical-Data-Visualizer
-In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
+# Medical Data Visualizer
+
+This project is part of my FreeCodeCamp Data Analysis with Python Certification. The Medical Data Visualizer analyzes medical data using Python's matplotlib and seaborn libraries for visualization.
+
+## Features
+- Data visualization
+- Insights into medical data trends
+- matplotlib and seaborn library usage
+
+## Technologies Used
+- Python
+- matplotlib
+- seaborn
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+Happy coding!
